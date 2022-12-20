@@ -1,0 +1,555 @@
+import random
+m = random.randrange(1,110)
+list=("","AG","AL","AN","AO","AR","AP","AT","AV","BA","BT","BL","BN","BG","BI","BO","BZ","BS","BR","CA","CL","CB","CI","CE","CT","CZ","CH","CO","CS","CR","KR","CN","EN","FM","FE","FI","FG","FC","FR","GE","GO","GR","IM","IS","SP","AQ","LT","LE","LC","LI","LO","LU","MC","MN","MS","MT","ME","MI","MO","MB","NA","NO","NU","OT","OR","PD","PA","PR","PV","PG","PU","PE","PC","PI","PT","PN","PZ","PO","RG","RA","RC","RE","RI","RN","RM","RO","SA","VS","SS","SV","SI","SR","SO","TA","TE","TR","TO","OG","TP","TN","TV","TS","UD","VA","VE","VB","VC","VR","VV","VI","VT")
+print(list[m])
+provincia=input("inserisci la provincia italiana: ")
+if(m==1):
+    if(provincia== "agrigento"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==2):
+    if(provincia== "alessandria"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==3):
+    if(provincia== "ancona"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==4):
+    if(provincia== "aosta"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==5):
+    if(provincia== "arezzo"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==6):
+    if(provincia== "ascolipiceno"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==7):
+    if(provincia== "asti"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==8):
+    if(provincia== "avellino"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==9):
+    if(provincia== "bari"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==10):
+    if(provincia== "barletta"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==11):
+    if(provincia== "belluno"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==12):
+    if(provincia== "benevento"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==13):
+    if(provincia== "bergamo"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==14):
+    if(provincia== "biella"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==15):
+    if(provincia== "bologna"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==16):
+    if(provincia== "bolzano"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==17):
+    if(provincia== "brescia"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==18):
+    if(provincia== "brindisi"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==19):
+    if(provincia== "cagliari"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==20):
+    if(provincia== "caltanissetta"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==21):
+    if(provincia== "campobasso"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==22):
+    if(provincia== "carbonia"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==23):
+    if(provincia== "caserta"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==24):
+    if(provincia== "catania"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==25):
+    if(provincia== "catanzaro"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==26):
+    if(provincia== "chieti"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==27):
+    if(provincia== "como"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==28):
+    if(provincia== "cosenza"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==29):
+    if(provincia== "cremona"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==30):
+    if(provincia== "crotone"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==31):
+    if(provincia== "cuneo"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==32):
+    if(provincia== "enna"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==33):
+    if(provincia== "fermo"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==34):
+    if(provincia== "ferrara"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==35):
+    if(provincia== "firenze"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==36):
+    if(provincia== "foggia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==37):
+    if(provincia== "forlì"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==38):
+    if(provincia== "frosinone"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==39):
+    if(provincia== "genova"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==40):
+    if(provincia== "gorizia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==41):
+    if(provincia== "grosseto"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==42):
+    if(provincia== "imperia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==43):
+    if(provincia== "isernia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==44):
+    if(provincia== "laspezia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==45):
+    if(provincia== "aquila"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==46):
+    if(provincia== "latina"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==47):
+    if(provincia== "lecce"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==48):
+    if(provincia== "lecco"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==49):
+    if(provincia== "livorno"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==50):
+    if(provincia== "lodi"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==51):
+    if(provincia== "lucca"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==52):
+    if(provincia== "macerata"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==53):
+    if(provincia== "mantova"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==54):
+    if(provincia== "massacarrara"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==55):
+    if(provincia== "matera"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==56):
+    if(provincia== "messina"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==57):
+    if(provincia== "milano"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==58):
+    if(provincia== "modena"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==59):
+    if(provincia== "monzabrianza"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==60):
+    if(provincia== "napoli"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==61):
+    if(provincia== "novara"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==62):
+    if(provincia== "nuoro"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==63):
+    if(provincia== "olbia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==64):
+    if(provincia== "oristano"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==65):
+    if(provincia== "padova"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==66):
+    if(provincia== "palermo"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==67):
+    if(provincia== "parma"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==68):
+    if(provincia== "pavia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==69):
+    if(provincia== "perugia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==70):
+    if(provincia== "pesarourbino"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==71):
+    if(provincia== "pescara"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==72):
+    if(provincia== "piacenza"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==73):
+    if(provincia== "pisa"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==74):
+    if(provincia== "pistoia"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==75):
+    if(provincia== "pordenone"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==76):
+    if(provincia== "potenza"):
+        print("giusto")
+    else:
+        print("sbagliato")     
+if(m==77):
+    if(provincia== "prato"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==78):
+    if(provincia== "ragusa"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==79):
+    if(provincia== "ravenna"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==80):
+    if(provincia== "reggiocalabria"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==81):
+    if(provincia== "reggioemilia"):
+        print("giusto")
+    else:
+        print("sbagliato")                              
+if(m==82):
+    if(provincia== "rieti"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==83):
+    if(provincia== "rimini"):
+        print("giusto")
+    else:
+        print("sbagliato")     
+if(m==84):
+    if(provincia== "roma"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==85):
+    if(provincia== "rovigo"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==86):
+    if(provincia== "salerno"):
+        print("giusto")
+    else:
+        print("sbagliato")     
+if(m==87):
+    if(provincia== "mediocampidano"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==88):
+    if(provincia== "sassari"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==89):
+    if(provincia== "savona"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==90):
+    if(provincia== "siena"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==91):
+    if(provincia== "siracusa"):
+        print("giusto")
+    else:
+        print("sbagliato")     
+if(m==92):
+    if(provincia== "sondrio"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==93):
+    if(provincia== "taranto"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==94):
+    if(provincia== "teramo"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==95):
+    if(provincia== "terni"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==96):
+    if(provincia== "torino"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==97):
+    if(provincia== "ogliastra"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==98):
+    if(provincia== "trapani"):
+        print("giusto")
+    else:
+        print("sbagliato")
+if(m==99):
+    if(provincia== "trento"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==100):
+    if(provincia== "treviso"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==101):
+    if(provincia== "trieste"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==102):
+    if(provincia== "udine"):
+        print("giusto")
+    else:
+        print("sbagliato")   
+if(m==103):
+    if(provincia== "varese"):
+        print("giusto")
+    else:
+        print("sbagliato")  
+if(m==104):
+    if(provincia== "venezia"):
+        print("giusto")
+    else:
+        print("sbagliato")              
+if(m==105):
+    if(provincia== "verbanocusioossola"):
+        print("giusto")
+    else:
+        print("sbagliato")   
+if(m==106):
+    if(provincia== "vercelli"):
+        print("giusto")
+    else:
+        print("sbagliato")    
+if(m==107):
+    if(provincia== "verona"):
+        print("giusto")
+    else:
+        print("sbagliato") 
+if(m==108):
+    if(provincia== "vibovalentia"):
+        print("giusto")
+    else:
+        print("sbagliato")      
+if(m==109):
+    if(provincia== "vicenza"):
+        print("giusto")
+    else:
+        print("sbagliato")           
+if(m==110):
+    if(provincia== "viterbo"):
+        print("giusto")
+    else:
+        print("sbagliato")                                                                                                       
